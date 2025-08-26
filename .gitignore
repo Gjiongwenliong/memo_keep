@@ -1,7 +1,7 @@
 # System
 .DS_Store
 Thumbs.db
-
+# I try to make this version not change but it vary, so become version
 # Logs
 *.log
 
